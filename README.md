@@ -1,4 +1,4 @@
-##### **Julia ist an dieser Aufgabe verzweifelt**
+## **Julia ist an dieser Aufgabe verzweifelt**
 
 Übung:
 Schreibe ein Programm "Transpos", das eine Zeile aus einer 
